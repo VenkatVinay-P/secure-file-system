@@ -45,6 +45,7 @@ This project is a Flask-based web application that provides a secure environment
    ```bash
    http://127.0.0.1:5000/
 ## Project Structure
+```graphql
 secure-file-storage/
 ├── app.py                # Main application file
 ├── templates/            # HTML templates for the app
